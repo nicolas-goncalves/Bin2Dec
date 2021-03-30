@@ -12,6 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
+Bin2Dec wants to help you to convert binary numbers to decimal numbers!
+
 ## Header 2
 ### Header 3
 
